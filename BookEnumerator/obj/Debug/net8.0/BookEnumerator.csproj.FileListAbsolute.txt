@@ -1,0 +1,14 @@
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/bin/Debug/net8.0/BookEnumerator
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/bin/Debug/net8.0/BookEnumerator.deps.json
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/bin/Debug/net8.0/BookEnumerator.runtimeconfig.json
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/bin/Debug/net8.0/BookEnumerator.dll
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/bin/Debug/net8.0/BookEnumerator.pdb
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.AssemblyInfoInputs.cache
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.AssemblyInfo.cs
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.csproj.CoreCompileInputs.cache
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.dll
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/refint/BookEnumerator.dll
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.pdb
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/BookEnumerator.genruntimeconfig.cache
+/home/alexandre/RiderProjects/BookEnumerator/BookEnumerator/obj/Debug/net8.0/ref/BookEnumerator.dll
